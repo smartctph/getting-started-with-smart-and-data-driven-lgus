@@ -151,25 +151,25 @@ window.onload = function (){
 			module:1,
 			title: "CARDSET",
 			text: "...",
-			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/getting-started_print/"
+			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_print/"
 		},
 		{
 			module:1,
 			title: "GUIDEBOOK",
 			text: "...",
-			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/getting-started_print/"
+			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_print/"
 		},
 		{
 			module:1,
 			title: "ICONS",
 			text: "...",
-			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/getting-started_icons/"
+			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_icons/"
 		},
 		{
 			module:1,
 			title: "DESIGN",
 			text: "...",
-			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/getting-started_design/"
+			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_design/"
 		}
 	];
 
