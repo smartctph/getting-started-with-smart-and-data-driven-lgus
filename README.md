@@ -1,5 +1,5 @@
-# GETTING STARTED SERIES
-## Getting Started with being Smart and Data-Driven for LGUs
+# Getting Started Series
+## Getting Started with Smart and Data-Driven LGUs
 *to add writeup*
 
 ### Icons
@@ -14,7 +14,7 @@
 ### Guidebook
 *to add writeup*
 
-### License
+## License
 The files in Icons, Design, 
 
 The [Cards under FNF](getting-started_cards/fnf/) are licensed to the [Friedrich Naumann Foundation for Freedom](https://www.freiheit.org/) and includes copyrighted materials (e.g. logos) by the Foundation.
