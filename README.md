@@ -15,7 +15,7 @@
 *to add writeup*
 
 ## License
-The files in Icons, Design, 
+The files in [Icons](getting-started_icons), [Design](getting-started_design), amd [Guidebook](getting-started_guidebook) are licensed by [SmartCT](https://smartct.org) under a [ under the Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 The [Cards under FNF](getting-started_cards/fnf/) are licensed to the [Friedrich Naumann Foundation for Freedom](https://www.freiheit.org/) and includes copyrighted materials (e.g. logos) by the Foundation.
 
