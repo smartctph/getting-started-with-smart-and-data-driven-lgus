@@ -133,15 +133,15 @@ window.onload = function (){
 		null,
 		{
 			hex:'#ff5039',
-			hover:'#ff4149',
+			hover:'#ff5039',
 			title: "Building Block Card",
-			text: "Building Block Cards are..."
+			text: "Building Block Cards are the most commonly reoccurring elements and features that data-driven organizations and smart cities have.<br>They can be combined and connected to the Getting Started Cards to encourage creative playing and reshaping of ideas."
 		},
 		{
-			hex:'#004a74',
-			hover:'#003b84',
+			hex:'#02477d',
+			hover:'#02477d',
 			title: "Getting Started Card",
-			text: "Getting Started cards are..."
+			text: "Getting Started Cards offer practical overview and guidance on how to get started with being smart and data driven for local government units (LGUs).<br>It provides set of tools to being smart and data driven based on the the building block cards."
 		},
 
 	];
@@ -150,25 +150,25 @@ window.onload = function (){
 		{
 			module:1,
 			title: "CARDSET",
-			text: "...",
+			text: "Get started with being smart and data-driven. Get the cards. Download them. Print them. Share with others.",
 			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_print/"
 		},
 		{
 			module:1,
 			title: "GUIDEBOOK",
-			text: "...",
+			text: "Learn more about the cardset and how you can utilize them in your journey towards being smart and data-driven.",
 			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_print/"
 		},
 		{
 			module:1,
 			title: "ICONS",
-			text: "...",
+			text: "Icon files and visualy system for the Smart and Data-Driven Getting Started series.",
 			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_icons/"
 		},
 		{
 			module:1,
 			title: "DESIGN",
-			text: "...",
+			text: "Design files for the Getting Started series.",
 			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_design/"
 		}
 	];
