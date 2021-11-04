@@ -167,6 +167,7 @@ window.onload = function (){
 		},
 		{
 			module:1,
+
 			title: "DESIGN",
 			text: "Design files for the Getting Started series.",
 			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_design/"
@@ -287,7 +288,7 @@ window.onload = function (){
 		reg('download_bt');
 
 		$(download_bt).on('click', function(){
-			window.open('../print/Getting Started with Smart and Data-driven LGUs Card set (for printing) - FNF.pdf');
+			window.open('./print/Getting Started with Smart and Data-driven LGUs Card set (for printing) - FNF.pdf');
 		});
 
 	}
@@ -297,7 +298,7 @@ window.onload = function (){
 		reg('download_guidebook_bt');
 
 		$(download_guidebook_bt).on('click', function(){
-			window.open('../print/Getting Started with Smart and Data-driven LGUs Guidebook.pdf');
+			window.open('./print/Getting Started with Smart and Data-driven LGUs Guidebook.pdf');
 		});
 
 	}
