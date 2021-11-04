@@ -151,13 +151,13 @@ window.onload = function (){
 			module:1,
 			title: "CARDSET",
 			text: "Get started with being smart and data-driven. Get the cards. Download them. Print them. Share with others.",
-			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_print/"
+			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_cards/"
 		},
 		{
 			module:1,
 			title: "GUIDEBOOK",
 			text: "Learn more about the cardset and how you can utilize them in your journey towards being smart and data-driven.",
-			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_print/"
+			url: "https://github.com/smartctph/getting-started-with-smart-and-data-driven-lgus/tree/main/getting-started_guidebook/"
 		},
 		{
 			module:1,
