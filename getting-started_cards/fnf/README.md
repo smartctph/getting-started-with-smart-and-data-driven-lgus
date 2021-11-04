@@ -1,0 +1,3 @@
+These [Cards under FNF](getting-started_cards/fnf/) are licensed to the [Friedrich Naumann Foundation for Freedom](https://www.freiheit.org/philippines) and includes copyrighted materials (e.g. logos) by the Foundation.
+
+Please contact the [Friedrich Naumann Foundation for Freedom](https://www.freiheit.org/philippines) or [SmartCT](https://smartct.org) for more information about the use of these cards.

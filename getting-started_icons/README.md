@@ -1,0 +1,1 @@
+Portions of the Getting Started Icons incorporate elements of, or are derived from, the [Material icons](https://fonts.google.com/icons). The Material icons are available under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).

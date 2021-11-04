@@ -287,7 +287,7 @@ window.onload = function (){
 		reg('download_bt');
 
 		$(download_bt).on('click', function(){
-			window.open('../print/README.md');
+			window.open('../print/Getting Started with Smart and Data-driven LGUs Card set (for printing) - FNF.pdf');
 		});
 
 	}
@@ -297,7 +297,7 @@ window.onload = function (){
 		reg('download_guidebook_bt');
 
 		$(download_guidebook_bt).on('click', function(){
-			window.open('../print/GUIDEBOOK.md');
+			window.open('../print/Getting Started with Smart and Data-driven LGUs Guidebook.pdf');
 		});
 
 	}
