@@ -20,7 +20,7 @@ The GUIDEBOOK explains the kinds of cards, illustrates how different stakeholder
 Each icon is carefully crafted using known system icons from the internet to form a unified taxonomy and visual cues symbolizing common terms in being data-driven and smart.
 
 ## License
-The files in [Icons](getting-started_icons), [Design](getting-started_design), amd [Guidebook](getting-started_guidebook) are licensed by [SmartCT](https://smartct.org) under a [ under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
+The files in [Icons](getting-started_icons), [Design](getting-started_design), and [Guidebook](getting-started_guidebook) are licensed by [SmartCT](https://smartct.org) under a [ under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 The [Cards under FNF](getting-started_cards/fnf/) are licensed to the [Friedrich Naumann Foundation for Freedom](https://www.freiheit.org/philippines) and includes copyrighted materials (e.g. logos) by the Foundation.
 
